@@ -1,6 +1,6 @@
 # Dashboard App INSO3_PWIC
 
-![Dashboard App](https://your-image-url.com/image.jpg)
+[![Dashboard App](https://your-image-url.com/image.jpg)](https://github.com/Ronambulo/Dashboard-App-INSO3_PWIC/blob/main/imagen-readme.png)
 
 Esta aplicación...
 
