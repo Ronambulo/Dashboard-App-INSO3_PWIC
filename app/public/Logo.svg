@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="9.152" y="260.4" angle="90"/>
+    <bx:guide x="245.812" y="-2.349" angle="-180"/>
+  </defs>
+  <g id="SVGRepo_bgCarrier" stroke-width="0" transform="matrix(7.593991, 0, 0, 7.593991, 214.877014, 155.30011)" style=""/>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" transform="matrix(7.593991, 0, 0, 7.593991, 214.877014, 155.30011)" style=""/>
+  <g transform="matrix(1, 0, 0, 1, -96.541954, -26.65126)">
+    <g id="g-1" transform="matrix(21.619907, 0, 0, 21.619907, 87.189552, 11.785772)" style="">
+      <path d="M 17.902 8.343 L 11.991 4.926 L 11.985 4.93 L 11.982 4.928 L 8.244 7.086 L 7.248 4.911 L 11.996 2.198 L 20.777 7.216 L 20.777 17.285 L 11.996 22.304 L 3.215 17.285 L 3.215 8.562 L 5.688 8.562 L 5.619 8.602 L 5.619 15.948 L 11.982 19.622 L 18.344 15.948 L 18.344 8.602 L 17.9 8.346 Z" fill="#0060b0" style=""/>
+    </g>
+    <path d="M 346.542 218.962 L 388.381 247.808 L 388.381 305.496 L 346.542 334.339 L 304.703 305.496 L 304.703 247.808 L 346.542 218.962 Z" style="fill: rgb(254, 190, 119); fill-rule: evenodd; paint-order: fill;"/>
+  </g>
+</svg>
